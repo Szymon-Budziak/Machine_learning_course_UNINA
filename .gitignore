@@ -127,5 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea
 Mini_contest_1/Sample submission.csv
 Mini_contest_2/Sample_submission.csv
+Mini_contest_3/Data/Sample_submission.csv
